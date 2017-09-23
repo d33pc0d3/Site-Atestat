@@ -87,12 +87,12 @@ E putin mai complicat asta, daca stiti CSS cred ca va descurcati altfel mai bine
 
 <b>TIPURI</b>:
 
--faceti o copie la tot la inceput. Daca ati stricat ceva puteti sa copiati din prima parte.
--pozele trebuie sa aiba marimea specificata pe placeholdere, ca sa se vada bine.
--cu inspect element din chrome puteti sa vedeti unde e elementul respectiv.
--aveti grija cu meniul, ORICE SCHIMBARE TREBUIE COPIATA PESTE TOT. 
--Nu trebuie sa folositi toate paginile. Spre exemplu la portofoliu, cred ca ar fi nevoie doar de una. Pe restul le stergeti din meniu si din folder la sfarsit.
--Cand terminati cu tot, stergeti Citeste.txt asta. Ar fi ciudat sa apara cand prezentati.
+- faceti o copie la tot la inceput. Daca ati stricat ceva puteti sa copiati din prima parte.
+- pozele trebuie sa aiba marimea specificata pe placeholdere, ca sa se vada bine.
+- cu inspect element din chrome puteti sa vedeti unde e elementul respectiv.
+- aveti grija cu meniul, ORICE SCHIMBARE TREBUIE COPIATA PESTE TOT. 
+- Nu trebuie sa folositi toate paginile. Spre exemplu la portofoliu, cred ca ar fi nevoie doar de una. Pe restul le stergeti din meniu si din folder la sfarsit.
+- Cand terminati cu tot, stergeti Citeste.txt asta. Ar fi ciudat sa apara cand prezentati.
 
                
            
