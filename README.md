@@ -92,7 +92,7 @@ E putin mai complicat asta, daca stiti CSS cred ca va descurcati altfel mai bine
 - cu inspect element din chrome puteti sa vedeti unde e elementul respectiv.
 - aveti grija cu meniul, ORICE SCHIMBARE TREBUIE COPIATA PESTE TOT. 
 - Nu trebuie sa folositi toate paginile. Spre exemplu la portofoliu, cred ca ar fi nevoie doar de una. Pe restul le stergeti din meniu si din folder la sfarsit.
-- Cand terminati cu tot, stergeti Citeste.txt asta. Ar fi ciudat sa apara cand prezentati.
+- Cand terminati cu tot, stergeti README.md asta. Ar fi ciudat sa apara cand prezentati.
 
                
            
