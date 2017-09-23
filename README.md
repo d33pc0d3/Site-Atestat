@@ -53,7 +53,7 @@ Vreti sa puneti un alt titlu la ceva din bara de meniu, sau sa scoateti ceva sau
  1. &lt;a class=&quot;dropdown-item&quot; href=&quot;blog-home-1.html&quot;&gt;Blog Acasa 1&lt;/a&gt;
  2. &lt;li class=&quot;nav-item&quot;&gt; &lt;a class=&quot;nav-link&quot href=&quot;contact.html&quot;&gt;Contact&lt;/a&gt; &lt;/li&gt;
 
-Daca este intre &lt;li&gt &lt;/li&gt , atunci stergeti inclusiv cu &lt;li&gt si &lt;/li&gt. Daca nu, stergeti tot ce e la cazul 1. 
+Daca este intre &lt;li&gt;&lt;/li&gt; , atunci stergeti inclusiv cu &lt;li&gt; si &lt;/li&gt;. Daca nu, stergeti tot ce e la cazul 1. 
 
 Din nou, toate modificarile la meniu trebuie sa apara peste tot.
 
