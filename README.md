@@ -50,7 +50,7 @@ Cum modific meniul de sus?
 
 Vreti sa puneti un alt titlu la ceva din bara de meniu, sau sa scoateti ceva sau mai stiu eu ce, orice schimbare pe care o faceti TREBUIE FACUTA IN TOATA FISIERELE. Ea nu este inclusa cumva ci e doar copiata peste tot. Sugestia mea e sa modificati tot ce aveti nevoie dintr-o data, ca sa nu stati sa copiati de 1000 de ori. Daca vreti sa scoateti ceva din bara, Cautati unde scrie chestia respectiva si o sa gasiti una din 2:
 
- 1. <a class="dropdown-item" href="blog-home-1.html">Blog Acasa 1</a>
+ 1. &lt;a class=&quot;dropdown-item&quot; href=&quot;blog-home-1.html&quot;&gt;Blog Acasa 1&lt;/a&gt;
  2. <li class="nav-item"> <a class="nav-link" href="contact.html">Contact</a> </li>
 
 Daca este intre <li> </li> , atunci stergeti inclusiv cu <li> si </li>. Daca nu, stergeti tot ce e la cazul 1. 
