@@ -46,7 +46,7 @@ Intru in fisierul index.html cu ce vrei tu, notepad sau altceva si cauta pana ga
 Puteti sa folositi metodele de mai sus, gen sa cautati dupa textul ala in fisierul respectiv, sau cu inspect element si vedeti ceva din jur, etc. Gasiti pana la urma. Daca vedeti ca ati stricat ceva puteti sa dati Ctrl Z. 
 
 
-<b>Cum modific meniul de sus?/<b>
+<b>Cum modific meniul de sus?</b>
 
 Vreti sa puneti un alt titlu la ceva din bara de meniu, sau sa scoateti ceva sau mai stiu eu ce, orice schimbare pe care o faceti TREBUIE FACUTA IN TOATA FISIERELE. Ea nu este inclusa cumva ci e doar copiata peste tot. Sugestia mea e sa modificati tot ce aveti nevoie dintr-o data, ca sa nu stati sa copiati de 1000 de ori. Daca vreti sa scoateti ceva din bara, Cautati unde scrie chestia respectiva si o sa gasiti una din 2:
 
