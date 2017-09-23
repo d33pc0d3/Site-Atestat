@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Titlu</title>
+
+    
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    
+    <link href="css/site-atestat.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Nume site</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">Despre noi</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="services.html">Servicii</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Portfolio
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="portfolio-1-col.html">Portofoliu 1 coloana</a>
+                <a class="dropdown-item" href="portfolio-2-col.html">Portofoliu 2 coloane</a>
+                <a class="dropdown-item" href="portfolio-3-col.html">Portofoliu 3 coloane</a>
+                <a class="dropdown-item" href="portfolio-4-col.html">Portofoliu 4 coloane</a>
+                <a class="dropdown-item" href="portfolio-item.html">Portofoliu 1 singur obiect</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Blog
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                <a class="dropdown-item" href="blog-home-1.html">Blog Acasa 1</a>
+                <a class="dropdown-item" href="blog-home-2.html">Blog Acasa 2</a>
+                
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="faq.html">FAQ</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    
+    <div class="container">
+
+      
+      <h1 class="mt-4 mb-3">Contact
+      </h1>
+
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="index.html">Acasa</a>
+        </li>
+        <li class="breadcrumb-item active">Contact</li>
+      </ol>
+
+      
+      <div class="row">
+        
+        <div class="col-lg-8 mb-4">
+         <!-- Daca vrei sa pui alta locatie, du-te la google maps, cauta locul, apasa share
+         du-te pe embed map, copiaza aia si modifica jos sa fie height=400px si width=100% ex. mai jos-->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.6176618254976!2d26.088918151495026!3d44.44100447899961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff5a962e17b5%3A0xd93a4d835f69d251!2sSf%C3%A2ntul+Sava+National+College!5e0!3m2!1sen!2sro!4v1506184646362" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </div>
+        
+        <div class="col-lg-4 mb-4">
+          <h3>Detalii contact</h3>
+          <p>
+            numar strada
+            <br>strada
+            <br>
+          </p>
+          <p>
+            <abbr title="Phone">P</abbr>: 07477312321
+          </p>
+          <p>
+            <abbr title="Email">E</abbr>:
+            <a href="mailto:name@example.com">email@exemplu.com
+            </a>
+          </p>
+          <p>
+            <abbr title="Hours">H</abbr>: Luni - Vineri: 9:00 AM pana la 5:00 PM
+          </p>
+        </div>
+      </div>
+      
+
+      
+      
+      <div class="row">
+        <div class="col-lg-8 mb-4">
+          <h3>Trimite un mesaj</h3>
+          <form name="sentMessage" id="contactForm" novalidate>
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Nume:</label>
+                <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                <p class="help-block"></p>
+              </div>
+            </div>
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Numar telefon:</label>
+                <input type="tel" class="form-control" id="phone" required data-validation-required-message="Please enter your phone number.">
+              </div>
+            </div>
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Email:</label>
+                <input type="email" class="form-control" id="email" required data-validation-required-message="Please enter your email address.">
+              </div>
+            </div>
+            <div class="control-group form-group">
+              <div class="controls">
+                <label>Mesaj:</label>
+                <textarea rows="10" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
+              </div>
+            </div>
+            <div id="success"></div>
+            
+            <button type="submit" class="btn btn-primary">Trimite mesaj</button>
+          </form>
+        </div>
+
+      </div>
+      
+
+    </div>
+    
+
+    
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Nume site 2017</p>
+      </div>
+      
+    </footer>
+
+    
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    
+    
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+  </body>
+
+</html>
