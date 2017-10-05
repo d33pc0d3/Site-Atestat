@@ -1,6 +1,5 @@
 <h3>CITITI BINE ASTEA DE MAI JOS CA NU AM CHEF DE 1000 DE INTREBARI DUPA VA ROG</h3>
 
-
 <b>Sunt incluse:</b>
 
 - Pagina acasa(daca apesi pe partea din stanga unde e momentan Nume Site si trebuie schimbat de tine)
@@ -19,6 +18,8 @@
 
 
 Ok, asta este practic doar structura, tu trebuie sa gasesti poze respectiv sa pui descrieri titluri, etc. 
+
+<h4><b>Doamna de info mi-a zis ca trebuie minim 5 submeniuri din cate imi amintesc, eu zic sa aveti mai multe ca sa fiti siguri, dar puteti sa stergeti din chestii gen portofolii sau pagini de blog, eu am pus mai multe ca sa le puteti adapta la ideea voastra, dar nu sunt necesare toate</b></h4>
 
 <b>Cum pot sa vad siteul?</b>
 
